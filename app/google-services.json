@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1007575640752",
+    "firebase_url": "https://pruebamenu-5f459.firebaseio.com",
+    "project_id": "pruebamenu-5f459",
+    "storage_bucket": "pruebamenu-5f459.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007575640752:android:1016df3507c143d1d0a975",
+        "android_client_info": {
+          "package_name": "com.example.pruebamenu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007575640752-lvv5udb0h5resif18b8cgabb2v50c5mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnTKUc7fqvCWw0lfskGks4zs2gdS4D8VM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007575640752-lvv5udb0h5resif18b8cgabb2v50c5mf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

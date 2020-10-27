@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/courgette</item>
+        <item>@font/expletus_sans_bold</item>
+        <item>@font/philosopher_bold</item>
+        <item>@font/quicksand</item>
+        <item>@font/quicksand_medium_font</item>
+        <item>@font/roboto_black</item>
+        <item>@font/roboto_mono_bold</item>
+    </array>
+</resources>

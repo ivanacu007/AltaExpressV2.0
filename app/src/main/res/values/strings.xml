@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Alta Express v2</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="loading">Programador trabajando...</string>
+    <string name="resumeOr">Resumen del pedido</string>
+    <string name="pagar">Finalizar compra</string>
+    <string name="textregLogin">Regístrate</string>
+    <string name="textLogin">Inicia sesión</string>
+    <string name="btnReg">Completar registro</string>
+    <string name="dashboard">Alta Express</string>
+    <string name="user_account">Mi cuenta</string>
+    <string name="estab_list">Alimentos y bebidas
+    </string>
+    <string name="profile_text">Mi cuenta</string>
+    <string name="logOut">Cerrar sesión</string>
+    <string name="myorders">Mis pedidos</string>
+    <string name="recientes">Más recientes</string>
+    <string name="antiguos">Más antiguos</string>
+    <string name="todos">Todos mis pedidos</string>
+    <string name="config">Ajustes</string>
+    <string name="actionCall">Llamar</string>
+    <string name="actionMsg">Mensaje</string>
+    <string name="mydata">Mis datos</string>
+    <string name="puntos">...</string>
+    <string name="mandado">Mandado personalizado</string>
+    <string name="textMandado">
+        En esta sección puedes realizar un pedido personalizado, esto quiere decir que puedes anotar las cosas que necesites en la
+        caja de texto de abajo, nosotros nos encargaremos de hacer tu mandado y llevartelo hasta tu casa. Para esto tienes la opción de pedir mediante una llamada,
+        sin embargo, te recomendamos hacerlo por escrito, esto para que pueda reflejarse en tu lista de pedidos y puedas llevar un
+        completo control de tus compras.
+    </string>
+    <string name="guardar_cambios">Guardar cambios</string>
+    <string name="calle_colonia_y_n_mero">Calle, colonia y número</string>
+    <string name="direcci_n">Dirección</string>
+    <string name="titledialog">Recomendación</string>
+    <string name="dialogmessage">Registrate</string>
+    <string name="deliverytext">Completa tus datos</string>
+    <string name="guardar_mis_datos_para_futuras_compras">Guardar mis datos para futuras compras</string>
+    <string name="guardar_y_continuar">Guardar y continuar</string>
+    <string name="continuar">Continuar sin guardar</string>
+    <string name="completarmandado">Completar mandado</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="c_digo_postal">Código Postal</string>
+    <string name="hidetext">Ocultar</string>
+    <string name="showtext">Mostrar</string>
+    <string-array name="cantidadArray">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="ciudades">
+        <item>Ciudad Altamirano</item>
+        <item>Coyuca</item>
+        <item>Rivapalacio</item>
+    </string-array>
+    <string name="title_activity_mis_pedidos">MisPedidos</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="mandados">Mandados</string>
+
+</resources>
